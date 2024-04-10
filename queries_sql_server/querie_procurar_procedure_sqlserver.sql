@@ -1,0 +1,1 @@
+/home/jobs/lixo/enviar_para_lixeira_dia_01_06_2024/projeto_ic_queries/querie_procurar_procedure_sqlserver.sql
